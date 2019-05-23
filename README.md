@@ -8,6 +8,9 @@ The code that learning process in Udemy
     $ mysql -u root -p 
     enter your password 
 
-## WINDOW Logging:
+## ubuntu on WINDOW 10  Logging:
+    $ sudo apt-get dist-upgrade
+    
+    
     
 
